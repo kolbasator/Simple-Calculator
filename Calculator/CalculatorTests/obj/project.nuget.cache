@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rqWqmmNKkmdk2AXadC4s0jUw+hLkF4ausi9svXbNit0PVj2LipTAoSzBao+RJ0j1fOJz51tMYlfdk+hjBk9l5g==",
+  "dgSpecHash": "N0zih8DPAEiGlDCGhd/ovhcczrCCGck4tGCT80vHXvipItXja0rsB6a7WOeja3n75AHN/5T8DfVd7ab13Vhp7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\777\\Desktop\\Projects\\Calculator\\CalculatorTests\\CalculatorTests.csproj",
+  "projectFilePath": "C:\\Users\\777\\Desktop\\Projects\\Simple-Calculator\\Calculator\\CalculatorTests\\CalculatorTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\777\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
     "C:\\Users\\777\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Iv/P9n+FcWMeaa/bnZg46j6Ba6Sbj4fTS2xT2OK/zuG5LMu0m5FEYOfGRgpnNmuYVd2KFb3LTFK+Cv1rh/1nFA==",
+  "dgSpecHash": "7IKqCqhJUNlpUqPBF9epgr3WHSMPI32ayeV9eod+RCVF29SWbibdEnF6lszMoQG6ahDyYf4gBmk9/+MgPEsghg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\777\\Desktop\\Projects\\Calculator\\Calculator\\Calculator.csproj",
+  "projectFilePath": "C:\\Users\\777\\Desktop\\Projects\\Simple-Calculator\\Calculator\\Calculator\\Calculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\777\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
     "C:\\Users\\777\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",

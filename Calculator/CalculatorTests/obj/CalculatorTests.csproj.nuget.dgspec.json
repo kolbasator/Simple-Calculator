@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\777\\Desktop\\Projects\\Calculator\\CalculatorTests\\CalculatorTests.csproj": {}
+    "C:\\Users\\777\\Desktop\\Projects\\Simple-Calculator\\Calculator\\CalculatorTests\\CalculatorTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\777\\Desktop\\Projects\\Calculator\\CalculatorTests\\CalculatorTests.csproj": {
+    "C:\\Users\\777\\Desktop\\Projects\\Simple-Calculator\\Calculator\\CalculatorTests\\CalculatorTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\777\\Desktop\\Projects\\Calculator\\CalculatorTests\\CalculatorTests.csproj",
+        "projectUniqueName": "C:\\Users\\777\\Desktop\\Projects\\Simple-Calculator\\Calculator\\CalculatorTests\\CalculatorTests.csproj",
         "projectName": "CalculatorTests",
-        "projectPath": "C:\\Users\\777\\Desktop\\Projects\\Calculator\\CalculatorTests\\CalculatorTests.csproj",
+        "projectPath": "C:\\Users\\777\\Desktop\\Projects\\Simple-Calculator\\Calculator\\CalculatorTests\\CalculatorTests.csproj",
         "packagesPath": "C:\\Users\\777\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\777\\Desktop\\Projects\\Calculator\\CalculatorTests\\obj\\",
+        "outputPath": "C:\\Users\\777\\Desktop\\Projects\\Simple-Calculator\\Calculator\\CalculatorTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\777\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\777\\Desktop\\Projects\\Calculator\\Calculator\\Calculator.csproj": {
-                "projectPath": "C:\\Users\\777\\Desktop\\Projects\\Calculator\\Calculator\\Calculator.csproj"
+              "C:\\Users\\777\\Desktop\\Projects\\Simple-Calculator\\Calculator\\Calculator\\Calculator.csproj": {
+                "projectPath": "C:\\Users\\777\\Desktop\\Projects\\Simple-Calculator\\Calculator\\Calculator\\Calculator.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\777\\Desktop\\Projects\\Calculator\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\777\\Desktop\\Projects\\Simple-Calculator\\Calculator\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\777\\Desktop\\Projects\\Calculator\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\777\\Desktop\\Projects\\Simple-Calculator\\Calculator\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\777\\Desktop\\Projects\\Calculator\\Calculator\\Calculator.csproj",
+        "projectPath": "C:\\Users\\777\\Desktop\\Projects\\Simple-Calculator\\Calculator\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\777\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\777\\Desktop\\Projects\\Calculator\\Calculator\\obj\\",
+        "outputPath": "C:\\Users\\777\\Desktop\\Projects\\Simple-Calculator\\Calculator\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\777\\AppData\\Roaming\\NuGet\\NuGet.Config",
