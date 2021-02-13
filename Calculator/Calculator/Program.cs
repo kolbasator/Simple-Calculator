@@ -12,7 +12,7 @@ namespace Calculator
             {
                 Console.WriteLine("Калькулятор со скобками и операциями +-*/ .Если хочешь получить нормальный результат ,то не дели на нуль, и не дели сам нуль.А так же, Ставь пробелы после каждой скобки-числа-оператора .Например : пиши не 2*(2+2), а пиши 2 * ( 2 + 2 ).");
                 Console.Write("Введите выражение: ");
-                Calculator calculator = new Calculator();
+                SimpleCalculator calculator = new SimpleCalculator();
                 string expression = Console.ReadLine();
                 Console.WriteLine(calculator.Calculate(expression));
                 Console.ReadLine();
